@@ -1,0 +1,10 @@
+res := 1;
+read n;
+read e;
+repeat 
+     res:=res*n;
+     e:=e-1;
+until e=0;
+str := "o resultado foi: ";
+write str
+write res

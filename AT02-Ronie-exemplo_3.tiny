@@ -1,0 +1,9 @@
+read x; 
+readread x;
+readx;
+read x;
+: =
+=:=
+repeatrepeat
+	untilx = x;
+until x = x;
